@@ -1,0 +1,11 @@
+CustomerID,Tenure,LoginFrequency,SupportContacts,Subscription,Churn
+1,24,20,1,Premium,No
+2,3,2,8,Basic,Yes
+3,12,15,2,Premium,No
+4,2,1,10,Basic,Yes
+5,18,18,1,Premium,No
+6,1,0,12,Basic,Yes
+7,20,16,2,Premium,No
+8,4,3,7,Basic,Yes
+9,15,12,3,Premium,No
+10,2,1,11,Basic,Yes
